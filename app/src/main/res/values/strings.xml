@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="app_name_version">ToDoList Version 1</string>
+    <string name="txtAddTask">Add a Task</string>
+    <string name="txtTaskTitle">Enter task title</string>
+    <string name="txtTaskDescription">Enter task description</string>
+    <string name="txtTaskDueDate">Enter task due date</string>
+    <string name="error">ERROR : Please make sure you enter a title!</string>
+    <string name="success">Success : Task successfully added!</string>
+    <string name="change_date">Change Date</string>
+    <string name="change_time">Change Time</string>
+    <string name="notification_title">TO DO LIST ALERT</string>
+    <string name="notification_content_beginning">Hey your task</string>
+    <string name="notification_content_ending">is due!</string>
+    <string name="intent_popup">ca.ashleyhasler.todolist.HELPPOPUP</string>
+</resources>
